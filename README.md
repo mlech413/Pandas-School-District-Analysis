@@ -1,3 +1,3 @@
 # Pandas-School-District-Analysis
-## Analyzation of the district-wide standardized test results (math and reading scores), as well as various information on the schools they attend. Data is aggregated to showcase obvious trends in school performance. Pandas DataFrames are created and manipulated to analyze the school and standardized test data.
-### Folder PyCitySchools contains the Jupyter notebook with the main script "PyCitySchools" for the analysis. Folder PyCitySchools/Resources contains datasets "schools_complete" and "students_complete".
+## Analyzation of district-wide standardized test results (math and reading scores), as well as various information on the schools they attend. Data is aggregated to showcase trends in school performance. Pandas DataFrames are created and manipulated to analyze the school and standardized test data.
+### Folder PyCitySchools contains the Jupyter notebook with the main script "PyCitySchools" with the written analysis as well as the DataFrames. Folder PyCitySchools/Resources contains datasets "schools_complete" and "students_complete".
